@@ -1,4 +1,4 @@
-![banner](https://github.com/darkcode357/thg-framework/blob/master/documentation/xss_main.jpg)
+![banner](https://github.com/tu0513github/thg-framework/blob/master/documentation/xss_main.jpg)
 # THG-FRAMEWORK
 
 THG Framework is a system for exploitation available to Linux, like Metasploit but is more easy to use, fast and litghtweight than Metasploit.
